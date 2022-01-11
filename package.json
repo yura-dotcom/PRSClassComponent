@@ -2,7 +2,7 @@
   "name": "finished",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yura-dotcom.github.io/RPSclass",
+  "homepage": "https://yura-dotcom.github.io/PRSClassComponent",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

@@ -233,3 +233,25 @@ h6 {
   background: #fa65ff;
   color: #fdedfd;
 }
+
+
+
+@media screen and (max-width: 600px){
+
+  .game-state-content svg {
+    width: 100px;
+    background: rgba(250, 101, 255, .6);
+    border-radius: 50%;
+    /* transform: scale(.6); */
+    padding: 20px;
+  }
+
+  .choices, .game-state > div {
+    transform: scale(.6);
+    width: 100%;
+  }
+
+  .app {
+    padding: 10px;  
+  }
+}
