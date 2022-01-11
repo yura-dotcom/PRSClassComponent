@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PRSClassComponent/static/css/main.c6b0cf1b.chunk.css",
+    "main.css": "/PRSClassComponent/static/css/main.9d813cff.chunk.css",
     "main.js": "/PRSClassComponent/static/js/main.da3dcc92.chunk.js",
     "main.js.map": "/PRSClassComponent/static/js/main.da3dcc92.chunk.js.map",
     "runtime-main.js": "/PRSClassComponent/static/js/runtime-main.d3f3bec0.js",
@@ -8,15 +8,15 @@
     "static/js/2.823ba1fd.chunk.js": "/PRSClassComponent/static/js/2.823ba1fd.chunk.js",
     "static/js/2.823ba1fd.chunk.js.map": "/PRSClassComponent/static/js/2.823ba1fd.chunk.js.map",
     "index.html": "/PRSClassComponent/index.html",
-    "precache-manifest.6b4511e9ab95d80e9ad583a98d5f9a96.js": "/PRSClassComponent/precache-manifest.6b4511e9ab95d80e9ad583a98d5f9a96.js",
+    "precache-manifest.d10400c86cb8b1f5a681e6a368fb056d.js": "/PRSClassComponent/precache-manifest.d10400c86cb8b1f5a681e6a368fb056d.js",
     "service-worker.js": "/PRSClassComponent/service-worker.js",
-    "static/css/main.c6b0cf1b.chunk.css.map": "/PRSClassComponent/static/css/main.c6b0cf1b.chunk.css.map",
+    "static/css/main.9d813cff.chunk.css.map": "/PRSClassComponent/static/css/main.9d813cff.chunk.css.map",
     "static/js/2.823ba1fd.chunk.js.LICENSE.txt": "/PRSClassComponent/static/js/2.823ba1fd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d3f3bec0.js",
     "static/js/2.823ba1fd.chunk.js",
-    "static/css/main.c6b0cf1b.chunk.css",
+    "static/css/main.9d813cff.chunk.css",
     "static/js/main.da3dcc92.chunk.js"
   ]
 }
