@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d7dda07d91f0fd27c1e806967bdc83bc",
+    "revision": "64031c8e9a146b84dfc4f9f7b93dccac",
     "url": "/PRSClassComponent/index.html"
   },
   {
-    "revision": "4611bfe59f29998611da",
-    "url": "/PRSClassComponent/static/css/main.9d813cff.chunk.css"
+    "revision": "4ab5bc3395ea876180f4",
+    "url": "/PRSClassComponent/static/css/main.872a0308.chunk.css"
   },
   {
     "revision": "7e8be7e4265c8da8d65e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PRSClassComponent/static/js/2.823ba1fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4611bfe59f29998611da",
+    "revision": "4ab5bc3395ea876180f4",
     "url": "/PRSClassComponent/static/js/main.da3dcc92.chunk.js"
   },
   {
